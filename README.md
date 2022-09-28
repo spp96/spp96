@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spp96
 - 👀 I’m interested in Travelling, Listening Music
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on Good Tech Skills<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about<br>⚡  Fun fact I have done Diploma in Electrical Engineering & Worked in Electrical Manufacturing Companies for 3+ years.<br>💬 Ask me about Coding...<br>📫 How to reach me: shubhamppatil1996@gmail.com<br>⚡ Know more: Loading......<br>⚡ Know more: My LinkedIn<br>👯 Interested in backend technologies....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>📄 Know about my experiences: My Resume
+<br>👯 I’m looking to collaborate on Good Tech Skills<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about<br>💬 Ask me about Coding...<br>📫 How to reach me: shubhamppatil1996@gmail.com<br>👯 Interested in backend technologies....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>📄 Know about my experiences: My Resume<br>⚡  Fun fact I have done Diploma in Electrical Engineering & Worked in Electrical Manufacturing Companies for 3+ years.
 
 
 ## 🌐 Socials:
