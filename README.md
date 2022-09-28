@@ -4,7 +4,8 @@
 - ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif)
 
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on Good Tech Skills<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Full Stack Web Development<br>⚡  Fun fact I have done Diploma in Electrical Engineering & Worked in Electrical Manufacturing Companies for 3+ years.<br>💬 Ask me about Coding...<br>📫 How to reach me: shubhamppatil1996@gmail.com<br>👯 Interested in backend technologies....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>📄 Know about my experiences: My Resume
+<br>👯 I’m looking to collaborate on Good Tech Skills<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about Coding...<br>📫 How to reach me: shubhamppatil1996@gmail.com<br>👯 Interested in backend technologies....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>📄 Know about my experiences: My Resume<br>⚡  Fun fact I have done Diploma in Electrical Engineering & Worked in Electrical Manufacturing Companies for 3+ years.
+
 
 
 ## 🌐 Socials:
