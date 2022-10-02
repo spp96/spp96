@@ -10,6 +10,8 @@
 <br>👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about Coding...<br>📫 How to reach me: shubhamppatil1996@gmail.com<br>👯 Interested in backend technologies....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
 
 
+View [My Resume](https://drive.google.com/file/d/1tM5F-OAoLfmLwPoWmP12U4a-qq0rgeLm/view?usp=sharing)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhampatil6670sp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-patil-045478206/) 
