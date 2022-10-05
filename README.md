@@ -14,13 +14,14 @@ I'm a Passionate Developer, I love to create beautiful and functional websites.P
 👯 I’m looking to collaborate on Good Tech Skills<br>
 🌱 I’m currently learning Full Stack Web Development<br>
 💬 Ask me about Coding...<br>
-📫 How to reach me: shubhamppatil1996@gmail.com<br>
 👯 Interested in backend technologies....<br>
 👯 Self Motivated<br>
 ⚡ Quick learner<br>
 💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
 
-⚡ Know More About Experiance: [My Resume](https://drive.google.com/file/d/1tM5F-OAoLfmLwPoWmP12U4a-qq0rgeLm/view?usp=sharing)<br>
+📫 How to reach me: shubhamppatil1996@gmail.com <br>
+
+⚡ Know More About Experiance: [My Resume](https://drive.google.com/file/d/1J7GpuCJ1qZex9PY8XEDyQ-yPxUqFwjvW/view?usp=sharing)<br>
 
 Want to know more about me? [Check out my portfolio](https://spp96.github.io/)
 
