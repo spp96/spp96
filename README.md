@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Shubham Patil</h1>
-<div align="right">
+<div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
 
